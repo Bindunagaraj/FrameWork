@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Regression Suite]">
+  <parameter name="value" value="${Environment}"/>
+  <test name="Calculator(failed)">
+    <classes>
+      <class name="com.tekarch.login.loginTekApp">
+        <methods>
+          <include name="settingUpEnvironment"/>
+          <include name="settingReqURL"/>
+        </methods>
+      </class> <!-- com.tekarch.login.loginTekApp -->
+      <class name="com.tekarch.calculator.calculator">
+        <methods>
+          <include name="ShuttingDownAllDependencies"/>
+          <include name="TriggerDependencies"/>
+          <include name="To_check_whether_ADDITION_is_Working_Fine_Or_Not"/>
+          <include name="To_check_whether_MULTIPLICATION_is_Working_Fine_Or_Not"/>
+          <include name="settingReqURL"/>
+          <include name="To_check_whether_DIVISION_is_Working_Fine_Or_Not"/>
+          <include name="To_check_whether_SUBTRACTION_is_Working_Fine_Or_Not"/>
+          <include name="settingUpEnvironment"/>
+        </methods>
+      </class> <!-- com.tekarch.calculator.calculator -->
+    </classes>
+  </test> <!-- Calculator(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

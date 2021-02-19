@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18154" started-at="2021-02-19T08:45:02Z" finished-at="2021-02-19T08:45:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18154" started-at="2021-02-19T08:45:02Z" finished-at="2021-02-19T08:45:20Z">
+      <class name="com.salesforce.login.GoToProfilePage">
+        <test-method status="PASS" signature="TriggerDependencies()[pri:0, instance:com.salesforce.login.GoToProfilePage@1ce92674]" name="TriggerDependencies" is-config="true" duration-ms="2967" started-at="2021-02-19T03:44:59Z" finished-at="2021-02-19T03:45:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TriggerDependencies -->
+        <test-method status="PASS" signature="settingUpEnvironment()[pri:0, instance:com.salesforce.login.GoToProfilePage@1ce92674]" name="settingUpEnvironment" is-config="true" duration-ms="2204" started-at="2021-02-19T03:45:02Z" finished-at="2021-02-19T03:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingUpEnvironment -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.salesforce.login.GoToProfilePage@1ce92674]" name="login" duration-ms="11045" started-at="2021-02-19T03:45:04Z" finished-at="2021-02-19T03:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="myProfil()[pri:2, instance:com.salesforce.login.GoToProfilePage@1ce92674]" name="myProfil" duration-ms="4861" started-at="2021-02-19T03:45:15Z" finished-at="2021-02-19T03:45:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myProfil -->
+        <test-method status="PASS" signature="ShuttingDownAllDependencies()[pri:0, instance:com.salesforce.login.GoToProfilePage@1ce92674]" name="ShuttingDownAllDependencies" is-config="true" duration-ms="956" started-at="2021-02-19T03:45:21Z" finished-at="2021-02-19T03:45:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShuttingDownAllDependencies -->
+      </class> <!-- com.salesforce.login.GoToProfilePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

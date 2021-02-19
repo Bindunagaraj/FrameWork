@@ -1,0 +1,65 @@
+2021-02-19 01:30:58 INFO  CommonUtilities 50 - Current dir using System:C:\bindu folder\Framework\SalesForceFrameWork/src/main/java/properties/testdata.properties
+2021-02-19 01:30:58 INFO  CommonUtilities 117 - Directory is deleted : C:\bindu folder\Framework\SalesForceFrameWork\target\surefire-reports\screenshots
+2021-02-19 01:30:58 INFO  loginSalesforce 38 - web
+2021-02-19 01:30:58 INFO  loginSalesforce 39 - qa
+2021-02-19 01:30:58 INFO  BrowserUtilities 45 - Launching Browser
+2021-02-19 02:15:41 INFO  CommonUtilities 50 - Current dir using System:C:\bindu folder\Framework\SalesForceFrameWork/src/main/java/properties/testdata.properties
+2021-02-19 02:15:41 INFO  CommonUtilities 117 - Directory is deleted : C:\bindu folder\Framework\SalesForceFrameWork\target\surefire-reports\screenshots
+2021-02-19 02:15:41 INFO  loginSalesforce 38 - web
+2021-02-19 02:15:41 INFO  loginSalesforce 39 - qa
+2021-02-19 02:15:41 INFO  BrowserUtilities 45 - Launching Browser
+2021-02-19 02:15:46 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (73c7bde17249db3865b078be7f8198a9)] -> id: username]
+2021-02-19 02:15:47 INFO  pologin 67 - ****************************
+2021-02-19 02:15:56 ERROR pologin 51 - By passing error when we run on suite case
+2021-02-19 02:15:56 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (73c7bde17249db3865b078be7f8198a9)] -> id: username]
+2021-02-19 02:16:10 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (73c7bde17249db3865b078be7f8198a9)] -> id: home_Tab]
+2021-02-19 02:16:10 INFO  BrowserUtilities 122 - Displayed [[ChromeDriver: chrome on WINDOWS (73c7bde17249db3865b078be7f8198a9)] -> id: home_Tab]
+2021-02-19 02:16:10 INFO  pologin 56 - Login Success and Home page is visible
+2021-02-19 02:29:47 INFO  CommonUtilities 50 - Current dir using System:C:\bindu folder\Framework\SalesForceFrameWork/src/main/java/properties/testdata.properties
+2021-02-19 02:29:47 INFO  CommonUtilities 117 - Directory is deleted : C:\bindu folder\Framework\SalesForceFrameWork\target\surefire-reports\screenshots
+2021-02-19 02:29:47 INFO  loginSalesforce 38 - web
+2021-02-19 02:29:47 INFO  loginSalesforce 39 - qa
+2021-02-19 02:29:47 INFO  BrowserUtilities 45 - Launching Browser
+2021-02-19 02:29:51 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (bcd2bb717c792ee4f5eaf7a1d80a272b)] -> id: username]
+2021-02-19 02:29:52 INFO  pologin 69 - ****************************
+2021-02-19 02:29:54 INFO  pologin 71 - Your access to salesforce.com has been disabled by your system administrator. Please contact your Administrator for more information.
+2021-02-19 02:29:54 INFO  pologin 72 - ****************************
+2021-02-19 02:30:02 ERROR pologin 53 - By passing error when we run on suite case
+2021-02-19 02:30:02 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (bcd2bb717c792ee4f5eaf7a1d80a272b)] -> id: username]
+2021-02-19 02:30:11 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (bcd2bb717c792ee4f5eaf7a1d80a272b)] -> id: home_Tab]
+2021-02-19 02:30:11 INFO  BrowserUtilities 122 - Displayed [[ChromeDriver: chrome on WINDOWS (bcd2bb717c792ee4f5eaf7a1d80a272b)] -> id: home_Tab]
+2021-02-19 02:30:11 INFO  pologin 58 - Login Success and Home page is visible
+2021-02-19 02:32:01 INFO  CommonUtilities 50 - Current dir using System:C:\bindu folder\Framework\SalesForceFrameWork/src/main/java/properties/testdata.properties
+2021-02-19 02:32:01 INFO  CommonUtilities 117 - Directory is deleted : C:\bindu folder\Framework\SalesForceFrameWork\target\surefire-reports\screenshots
+2021-02-19 02:32:01 INFO  loginSalesforce 38 - web
+2021-02-19 02:32:01 INFO  loginSalesforce 39 - qa
+2021-02-19 02:32:01 INFO  BrowserUtilities 45 - Launching Browser
+2021-02-19 02:32:06 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (04c33fbe74b4a6b9ab3804536f29059c)] -> id: username]
+2021-02-19 02:32:07 INFO  pologin 69 - ****************************
+2021-02-19 02:32:09 INFO  pologin 71 - Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+2021-02-19 02:32:09 INFO  pologin 72 - ****************************
+2021-02-19 02:32:13 ERROR pologin 53 - By passing error when we run on suite case
+2021-02-19 02:32:13 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (04c33fbe74b4a6b9ab3804536f29059c)] -> id: username]
+2021-02-19 02:32:19 INFO  BrowserUtilities 85 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (04c33fbe74b4a6b9ab3804536f29059c)] -> id: home_Tab]
+2021-02-19 02:32:19 INFO  BrowserUtilities 122 - Displayed [[ChromeDriver: chrome on WINDOWS (04c33fbe74b4a6b9ab3804536f29059c)] -> id: home_Tab]
+2021-02-19 02:32:19 INFO  pologin 58 - Login Success and Home page is visible
+2021-02-19 03:43:30 INFO  CommonUtilities 50 - Current dir using System:C:\bindu folder\Framework\SalesForceFrameWork/src/main/java/properties/testdata.properties
+2021-02-19 03:43:30 INFO  CommonUtilities 117 - Directory is deleted : C:\bindu folder\Framework\SalesForceFrameWork\target\surefire-reports\screenshots
+2021-02-19 03:43:30 INFO  GoToProfilePage 38 - web
+2021-02-19 03:43:30 INFO  GoToProfilePage 39 - qa
+2021-02-19 03:43:30 INFO  BrowserUtilities 38 - Launching Browser
+2021-02-19 03:43:35 ERROR GoToProfilePage 43 - Couldnot click on MyProfile
+2021-02-19 03:44:59 INFO  CommonUtilities 50 - Current dir using System:C:\bindu folder\Framework\SalesForceFrameWork/src/main/java/properties/testdata.properties
+2021-02-19 03:44:59 INFO  CommonUtilities 117 - Directory is deleted : C:\bindu folder\Framework\SalesForceFrameWork\target\surefire-reports\screenshots
+2021-02-19 03:44:59 INFO  GoToProfilePage 38 - web
+2021-02-19 03:44:59 INFO  GoToProfilePage 39 - qa
+2021-02-19 03:44:59 INFO  BrowserUtilities 38 - Launching Browser
+2021-02-19 03:45:07 ERROR pologin 53 - By passing error when we run on suite case
+2021-02-19 03:45:08 INFO  BrowserUtilities 78 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (b8518b0a46618468e854ee06571f66e1)] -> id: username]
+2021-02-19 03:45:15 INFO  BrowserUtilities 78 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (b8518b0a46618468e854ee06571f66e1)] -> id: home_Tab]
+2021-02-19 03:45:15 INFO  BrowserUtilities 115 - Displayed [[ChromeDriver: chrome on WINDOWS (b8518b0a46618468e854ee06571f66e1)] -> id: home_Tab]
+2021-02-19 03:45:15 INFO  pologin 58 - Login Success and Home page is visible
+2021-02-19 03:45:16 INFO  BrowserUtilities 78 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (b8518b0a46618468e854ee06571f66e1)] -> id: userNavLabel]
+2021-02-19 03:45:17 INFO  poHome 31 - Could click on UserMenu
+2021-02-19 03:45:17 INFO  BrowserUtilities 78 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (b8518b0a46618468e854ee06571f66e1)] -> xpath: //a[@title ="My Profile"]]
+2021-02-19 03:45:20 INFO  poHome 44 - Successfully clicked on MyProfile
