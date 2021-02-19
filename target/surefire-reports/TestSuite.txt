@@ -1,0 +1,56 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 54.003 s <<< FAILURE! - in TestSuite
+To_check_whether_ADDITION_is_Working_Fine_Or_Not(com.tekarch.calculator.calculator)  Time elapsed: 6.434 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//form[@name='calculator']//input[@value=',,']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'HANUMA-O6S338O', ip: '192.168.174.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\hanuma\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61879}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a0726e84711f153eaf5dab62f7f74b9a
+*** Element info: {Using=xpath, value=//form[@name='calculator']//input[@value=',,']}
+	at com.tekarch.calculator.calculator.To_check_whether_ADDITION_is_Working_Fine_Or_Not(calculator.java:43)
+
+To_check_whether_SUBTRACTION_is_Working_Fine_Or_Not(com.tekarch.calculator.calculator)  Time elapsed: 4.356 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//form[@name='calculator']//input[@value=',,']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'HANUMA-O6S338O', ip: '192.168.174.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\hanuma\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61879}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a0726e84711f153eaf5dab62f7f74b9a
+*** Element info: {Using=xpath, value=//form[@name='calculator']//input[@value=',,']}
+	at com.tekarch.calculator.calculator.To_check_whether_SUBTRACTION_is_Working_Fine_Or_Not(calculator.java:48)
+
+To_check_whether_MULTIPLICATION_is_Working_Fine_Or_Not(com.tekarch.calculator.calculator)  Time elapsed: 3.786 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//form[@name='calculator']//input[@value=',,']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'HANUMA-O6S338O', ip: '192.168.174.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\hanuma\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61879}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a0726e84711f153eaf5dab62f7f74b9a
+*** Element info: {Using=xpath, value=//form[@name='calculator']//input[@value=',,']}
+	at com.tekarch.calculator.calculator.To_check_whether_MULTIPLICATION_is_Working_Fine_Or_Not(calculator.java:53)
+
+To_check_whether_DIVISION_is_Working_Fine_Or_Not(com.tekarch.calculator.calculator)  Time elapsed: 4.035 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//form[@name='calculator']//input[@value=',,']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'HANUMA-O6S338O', ip: '192.168.174.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\hanuma\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61879}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a0726e84711f153eaf5dab62f7f74b9a
+*** Element info: {Using=xpath, value=//form[@name='calculator']//input[@value=',,']}
+	at com.tekarch.calculator.calculator.To_check_whether_DIVISION_is_Working_Fine_Or_Not(calculator.java:57)
+

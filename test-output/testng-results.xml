@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9842" started-at="2021-02-19T05:27:13Z" finished-at="2021-02-19T05:27:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9842" started-at="2021-02-19T05:27:13Z" finished-at="2021-02-19T05:27:23Z">
+      <class name="com.tekarch.login.loginTekApp">
+        <test-method status="PASS" signature="TriggerDependencies()[pri:0, instance:com.tekarch.login.loginTekApp@5700d6b1]" name="TriggerDependencies" is-config="true" duration-ms="3633" started-at="2021-02-19T00:27:10Z" finished-at="2021-02-19T00:27:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TriggerDependencies -->
+        <test-method status="PASS" signature="settingUpEnvironment()[pri:0, instance:com.tekarch.login.loginTekApp@5700d6b1]" name="settingUpEnvironment" is-config="true" duration-ms="5903" started-at="2021-02-19T00:27:13Z" finished-at="2021-02-19T00:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingUpEnvironment -->
+        <test-method status="PASS" signature="To_check_Error_For_Invalid_Login()[pri:1, instance:com.tekarch.login.loginTekApp@5700d6b1]" name="To_check_Error_For_Invalid_Login" duration-ms="2569" started-at="2021-02-19T00:27:19Z" finished-at="2021-02-19T00:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- To_check_Error_For_Invalid_Login -->
+        <test-method status="PASS" signature="settingReqURL()[pri:0, instance:com.tekarch.login.loginTekApp@5700d6b1]" name="settingReqURL" is-config="true" duration-ms="144" started-at="2021-02-19T00:27:22Z" finished-at="2021-02-19T00:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingReqURL -->
+        <test-method status="PASS" signature="to_Check_Whether_Login_Happening_Or_Not()[pri:2, instance:com.tekarch.login.loginTekApp@5700d6b1]" name="to_Check_Whether_Login_Happening_Or_Not" duration-ms="1028" started-at="2021-02-19T00:27:22Z" finished-at="2021-02-19T00:27:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- to_Check_Whether_Login_Happening_Or_Not -->
+        <test-method status="PASS" signature="settingReqURL()[pri:0, instance:com.tekarch.login.loginTekApp@5700d6b1]" name="settingReqURL" is-config="true" duration-ms="166" started-at="2021-02-19T00:27:23Z" finished-at="2021-02-19T00:27:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingReqURL -->
+        <test-method status="PASS" signature="ShuttingDownAllDependencies()[pri:0, instance:com.tekarch.login.loginTekApp@5700d6b1]" name="ShuttingDownAllDependencies" is-config="true" duration-ms="975" started-at="2021-02-19T00:27:24Z" finished-at="2021-02-19T00:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShuttingDownAllDependencies -->
+      </class> <!-- com.tekarch.login.loginTekApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
